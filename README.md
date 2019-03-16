@@ -13,7 +13,7 @@ VideoKutter is a python script which allows you to easily split a video into ser
 
 # Example
 To split a video into several parts of 2 minutes, we can use the following command :  
-`videocutter --file=my_video.mp4 --duration=120`  
+`python videocutter --file=my_video.mp4 --duration=120`  
 The result will be several files like :  
 * my_video Part 1.mp4
 * my_video Part 2.mp4
