@@ -4,7 +4,7 @@ Simple kutter of Video Clips.
 
 # How it works ?
 
-VideoKutter is a python script which allows you to easily split a video into serveral parts.
+VideoKutter is a python script which allows you to easily split a video into several parts.
 
 # Options
 
