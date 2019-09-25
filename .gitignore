@@ -106,3 +106,4 @@ venv.bak/
 # VsCode Projects
 .vscode/
 output/
+input/
